@@ -1,6 +1,6 @@
 # WIDS
 
-**Paper**: WIDS: Wavelet-refinement-inspired diffusion model for scattering imaging
+**Paper**: Wavelet-refinement-inspired diffusion model for scattering imaging
 
 **Authors**: Xinyi Wu, Meng Teng, Qi Yu, Xinmin Ding, Wenbo Wan*, and Qiegen Liu*   
 
