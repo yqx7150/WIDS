@@ -16,8 +16,6 @@ Scattering media causes the random refraction of light along their propagation p
 # Main procedure and performance
 ![Flowchart of WIDS](/Figures/4.png "Main procedure and performance")
 
-![Structural diagram](/Figures/7.png "Main procedure and performance")
-
 ![Simulation](/Figures/2.png "Main procedure and performance")
 
 ![Simulation_crossdata](/Figures/1.png "Main procedure and performance")
@@ -25,3 +23,11 @@ Scattering media causes the random refraction of light along their propagation p
 ![Experiment](/Figures/5.png "Main procedure and performance")
 
 ![Spatial resolution](/Figures/3.png "Main procedure and performance")
+
+# Optical system configuration.
+![Structural diagram](/Figures/7.png "Optical system configuration")
+![Imaging system](/Figures/6.png "Optical system configuration")
+
+# Training
+
+
