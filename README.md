@@ -28,7 +28,7 @@ Scattering media causes the random refraction of light along their propagation p
 
 ![Spatial resolution](/Figures/3.png "Main procedure and performance")
 
-# Optical system configuration
+# The scattering imaging system
 ![Structural diagram](/Figures/7.png "Optical system configuration")
 ![Imaging system](/Figures/6.png "Optical system configuration")
 
@@ -51,4 +51,22 @@ Experiment Test
 ```bash
 python PCsampling_demo_shice.py
 ```
+# Checkpoints
+WIDS : We provide pretrained checkpoints. You can download pretrained models from [Baidu cloud] (https://pan.baidu.com/s/1CZLfDmLZeSTBFnwx2Hmwbg) Extract the code (1230)
+
+# Other Related Projects
+  * Imaging through scattering media via generative diffusion model  
+[<font size=5>**[Paper]**</font>](https://pubs.aip.org/aip/apl/article/124/5/051101/3176612/Imaging-through-scattering-media-via-generative )   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/ISDM)
+
+  * Diffusion Model-boosted Multiplane Extrapolation for Digital Holographic Reconstruction  
+[<font size=5>**[Paper]**</font>](https://doi.org/10.1364/OE.531147)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/DMEDH)    
+
+  * Dual-domain Mean-reverting Diffusion Model-enhanced Temporal Compressive Coherent Diffraction Imaging  
+[<font size=5>**[Paper]**</font>](https://doi.org/10.1364/OE.517567)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/DMDTC)
+  
+  * High-resolution iterative reconstruction at extremely low sampling rate for Fourier single-pixel imaging via diffusion model  
+[<font size=5>**[Paper]**</font>](https://doi.org/10.1364/OE.510692)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/FSPI-DM)
+
+  * Real-time intelligent 3D holographic photography for real-world scenarios  
+[<font size=5>**[Paper]**</font>](https://doi.org/10.1364/OE.529107)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/Intelligent-3D-holography)
 
