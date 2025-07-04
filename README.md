@@ -2,7 +2,7 @@
 
 **Paper**: WIDS: Wavelet-refinement-inspired diffusion model for scattering imaging
 
-**Authors**: Xinyi Wu, Meng Teng, Qi Yu1, Xinmin Ding4, Wenbo Wan*, and Qiegen Liu*   
+**Authors**: Xinyi Wu, Meng Teng, Qi Yu, Xinmin Ding, Wenbo Wan*, and Qiegen Liu*   
 
 Optics and Laser Technology     
 
@@ -29,5 +29,17 @@ Scattering media causes the random refraction of light along their propagation p
 ![Imaging system](/Figures/6.png "Optical system configuration")
 
 # Training
+Full-frequency Diffusion Model
+```bash
+python main_wavelet.py --config=aapm_sin_ncsnpp_wavelet.py --workdir=exp_wavelet --mode=train --eval_folder=result
+```
 
+High-frequency Diffusion Model 
+```bash
+python main_3h.py --config=aapm_sin_ncsnpp_3h.py --workdir=exp_3h --mode=train --eval_folder=result
+```
+# Test
+```bash
+python PCsampling_demo.py
+```
 
